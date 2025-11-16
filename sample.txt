@@ -1,0 +1,11 @@
+Hello FastAPI!
+
+This is a sample text file to test the file upload functionality.
+
+If you can read this, it means:
+    1. The HTML frontend successfully captured the file.
+    2. The file was sent to the FastAPI backend.
+    3. The backend read the file content correctly.
+    4. The content was sent back to the frontend and displayed.
+
+Congratulations, it works!
